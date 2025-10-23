@@ -53,19 +53,19 @@ A concise repository for an Arduino‑based **Structural Health Monitoring Syste
 ```
 structural-health-monitoring-system-arduino/
 ├─ report/
-│  ├─ structural-health-monitoring-system.pdf   # preferred (export from DOCX)
-│  └─ project-report-b9.docx                    # optional original
+│  ├─ structural-health-monitoring-system.pdf   
+│  └─ project-report-b9.docx                    
 ├─ images/
 │  ├─ arduino-uno-adxl345-wiring.jpg
 │  └─ arduino-uno-dht11-wiring.png
 ├─ slides/
-│  └─ shms-presentation-b9.pptx                 # pptx only is fine
+│  └─ shms-presentation-b9.pptx                 
 └─ README.md
 ```
 
 ---
 
-## Suggested Data Format (if you log later)
+
 **CSV**
 ```csv
 timestamp,ax,ay,az,temperature,humidity
@@ -74,11 +74,11 @@ timestamp,ax,ay,az,temperature,humidity
 
 ---
 
-## About (fill on GitHub → About → ✎)
-**Description (≤160 chars):**  
+
+**Description :**  
 Arduino‑based Structural Health Monitoring System. Final report, wiring diagrams (ADXL345 + DHT11), and presentation slides.
 
-**Topics:**  
+
 `structural-health-monitoring`, `shm`, `arduino`, `adxl345`, `dht11`, `i2c`, `vibration`, `sensors`, `report`, `slides`
 
 ---
